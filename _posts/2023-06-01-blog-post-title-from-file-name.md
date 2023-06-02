@@ -4,7 +4,7 @@ When scrolling through my instagram feed, I stumbled upon a post from one of the
 
 ## Lil educational content
 
-So, we know how there are different programming languages like Python, Java, or C++ that people use to write computer programs? yeah, so an esoteric programming language is a bit different from those mainstream languages. It's like a special category of programming languages that are designed to be strange and quirky and sometimes to not make any sense at first glance.
+So, we know how there are different programming languages like Python, Java, or C++ that people use to code? yeah, so an esoteric programming language is a bit different from those mainstream languages. It's like a special category of programming languages that are designed to be strange and quirky and sometimes to not make any sense at first glance.
 
 These programming languages are not really meant to be practical or widely used for everyday programming tasks. Instead, they are created as a way to explore unusual ideas or to challenge traditional programming concepts. You can think of them as more of a fun and creative experiment rather than something you'd use to build a real-world application.
 
