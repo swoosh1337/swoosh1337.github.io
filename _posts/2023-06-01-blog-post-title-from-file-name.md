@@ -1,4 +1,4 @@
-## Unveiling the Enigmatic Brainfuck
+## Enigmatic Brainfuck
 
 When scrolling through my instagram feed, I stumbled upon a post from one of the members of my favorite Georgian hip-hop group. To my surprise, he shared a snippet of code in an esoteric programming language called Brainfuck. this caught my attention immediately, as I had heard about Brainfuck somewhere before, but had never delved into it. And wtf even is esoteric programming language?
 
