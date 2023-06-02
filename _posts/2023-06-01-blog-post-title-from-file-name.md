@@ -11,7 +11,7 @@ These programming languages are not really meant to be practical or widely used 
 After some googling, I found out that, Brainfuck was created by a programmer named Urban Müller back in 1993. Müller designed BrainFuck with the intention of making it as minimalistic as possible. the language consists of only eight commands: +, -, >, <, ., ,, [, and ]. Still not sure why he wanted to do that. Some say that he wanted to implement smallest possible compiler.(maybe)
 
 
-#### Hello World 
+#### Hello World in Brainfuck
 
 ```
 ++++++++++[>+++++++>++++++++++>+++>+<<<<-]>++.>+.+++++++..+++.>++.<<++++
@@ -19,7 +19,7 @@ After some googling, I found out that, Brainfuck was created by a programmer nam
 
 ```
 
-####  Fibonacci Sequence 
+####  Fibonacci Sequence in Brainfuck
 not sure if it is actually correct tho.
 ```
 ++++++++++>+>+++++++[<<++++++++++>>-]>[<+>-]++++++++++[>++++++++++<-]>.
@@ -28,7 +28,7 @@ not sure if it is actually correct tho.
 
 #### So?
 
-Idk, go and explore BrainFuck if you got interested. I probs won't be learning BrainFuck in much details but there are more esoteric languages that I will be checking out soon. 
+Idk, go and explore Brainfuck if you got interested. I probs won't be spending much time on it but there are more esoteric languages that I will be checking out soon. 
 (WhiteSpace,LOLCODE,Piet,INTERCAL,Malbolge)
 
 
